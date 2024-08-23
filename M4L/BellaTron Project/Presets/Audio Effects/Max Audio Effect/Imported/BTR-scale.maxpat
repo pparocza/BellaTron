@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 624.0, 185.0, 657.0, 50.0 ],
+		"rect" : [ 576.0, -776.0, 657.0, 50.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 1,
 		"default_fontsize" : 12.0,
@@ -157,6 +157,7 @@
 						"valueof" : 						{
 							"parameter_longname" : "live.numbox[3]",
 							"parameter_mmax" : 10000.0,
+							"parameter_mmin" : -10000.0,
 							"parameter_shortname" : "live.numbox",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 1
@@ -211,6 +212,7 @@
 						"valueof" : 						{
 							"parameter_longname" : "live.numbox",
 							"parameter_mmax" : 10000.0,
+							"parameter_mmin" : -10000.0,
 							"parameter_shortname" : "live.numbox",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 1
