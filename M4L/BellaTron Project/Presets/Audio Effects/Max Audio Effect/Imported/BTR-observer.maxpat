@@ -81,6 +81,7 @@
 					"patching_rect" : [ 142.5, 183.5, 239.0, 34.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 2.5, 28.0, 236.0, 32.0 ],
+					"varname" : "BTR-scale",
 					"viewvisibility" : 1
 				}
 
@@ -393,7 +394,6 @@
 						"style" : "",
 						"subpatcher_template" : "Default Max 7",
 						"assistshowspatchername" : 0,
-						"visible" : 1,
 						"boxes" : [ 							{
 								"box" : 								{
 									"id" : "obj-39",
@@ -1261,7 +1261,7 @@
 					"mode" : 0,
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 2.5, 337.5, 102.0, 22.0 ],
+					"patching_rect" : [ 2.5, 277.5, 102.0, 22.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 225.5, 6.0, 11.0, 22.0 ],
 					"proportion" : 0.5,
@@ -8504,7 +8504,7 @@
 ,
 		"dependency_cache" : [ 			{
 				"name" : "BTR-scale.maxpat",
-				"bootpath" : "~/Desktop/Repos/BellaTron/BellaTron/M4L",
+				"bootpath" : "~/Desktop/Repos/BellaTron/BellaTron/M4L/BellaTron Project/Presets/Audio Effects/Max Audio Effect/Imported",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1

@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 324.0, -769.0, 555.0, 107.0 ],
+		"rect" : [ 324.0, -769.0, 801.0, 460.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 1,
 		"default_fontsize" : 12.0,
@@ -39,6 +39,27 @@
 		"subpatcher_template" : "Default Max 7",
 		"assistshowspatchername" : 0,
 		"boxes" : [ 			{
+				"box" : 				{
+					"id" : "obj-3",
+					"maxclass" : "newobj",
+					"numinlets" : 1,
+					"numoutlets" : 4,
+					"outlettype" : [ "", "", "", "" ],
+					"patching_rect" : [ 154.5, 1.0, 56.0, 22.0 ],
+					"restore" : 					{
+						"live.dial[1]" : [ 1.0 ],
+						"live.numbox" : [ 0.0 ],
+						"live.numbox[1]" : [ 0.0 ],
+						"live.tab" : [ 4.0 ],
+						"live.text" : [ 0.0 ]
+					}
+,
+					"text" : "autopattr",
+					"varname" : "u341010614"
+				}
+
+			}
+, 			{
 				"box" : 				{
 					"fontsize" : 12.0,
 					"id" : "obj-2",
